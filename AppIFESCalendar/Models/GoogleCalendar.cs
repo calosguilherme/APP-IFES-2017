@@ -13,7 +13,5 @@ namespace AppIFESCalendar.Models
         public UserCredential Credencial { get; set; }
         public Events Eventos { get; set; }
         public CalendarService Calendarios { get; set; }
-
-
     }
 }
